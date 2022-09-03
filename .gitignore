@@ -453,3 +453,4 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 getting-started.properties
+kafka-producer-application/configuration/ccloud.properties
