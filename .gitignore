@@ -453,7 +453,7 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 getting-started.properties
-kafka-producer-application/configuration/*
+*/configuration/*
 
 .gradle
 **/build/
@@ -514,3 +514,5 @@ replay_pid*
 
 # Built Visual Studio Code Extensions
 *.vsix
+kafka-producer-application/configuration/test.properties
+kafka-producer-application/configuration/test.properties
