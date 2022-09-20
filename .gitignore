@@ -517,3 +517,4 @@ replay_pid*
 kafka-producer-application/configuration/test.properties
 kafka-producer-application/configuration/test.properties
 kafka-spring-boot-getting-started/src/main/resources/application.yaml
+kafka-c-getting-started/getting-started.ini
